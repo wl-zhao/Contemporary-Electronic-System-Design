@@ -1,0 +1,10 @@
+*db/*
+.qsys_edit/
+__Previews/
+*.bak
+*.summary
+*.rpt
+*.smsg
+*.sld
+.metadata/
+*~

@@ -1,0 +1,6 @@
+# ALL in cydsn
+LED_Controller.cydsn/*
+!LED_Controller.cydsn/main.c
+# !LED_Controller.cydsn/
+!LED_Controller.cydsn/TopDesign
+!LED_Controller.cydsn/LED_Controller.cydwr
